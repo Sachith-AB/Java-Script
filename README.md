@@ -1,2 +1,1 @@
-# JS-
-starting new course Java Script
+Welcome to my Rapid Application Development (RAD) Web Development repository! Here, I leverage the power of RAD methodologies to streamline the creation of dynamic and robust web applications. My repository serves as a comprehensive resource for developers aiming to accelerate the web development process while ensuring high-quality results.
