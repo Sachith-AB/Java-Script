@@ -1,2 +1,2 @@
 # JS-
-starting new course JS
+starting new course Java Script
