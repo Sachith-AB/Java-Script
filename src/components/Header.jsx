@@ -2,18 +2,14 @@ import React from 'react'
 import './header.css'
 
 
-export default function Header(props) {
-    const topic= props.food;
-    const price=props.price;
+export default function Header() {
+    
 
   return (
-    <div>
-        <div className='header'>
-            <span className='header-text'>
-                {topic},{price}
-            </span>
-            {props.children}
-        </div>
+    <div className='header'>
+        <span className='header-text'>
+          This is header
+        </span>
     </div>
   )
 }
