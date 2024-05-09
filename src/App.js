@@ -6,6 +6,7 @@ import About from './pages/About';
 import SignIn from './pages/Sign-In'
 import Count from './pages/Count';
 import Bootstrap from './pages/Bootstrap';
+import Effect from './pages/Effect';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Route path='/sign-in'element={<SignIn/>}/>
           <Route path='/count' element={<Count/>}/>
           <Route path='/boot' element={<Bootstrap/>}/>
+          <Route path='/effect' element={<Effect/>}/>
         </Routes>
       
     </BrowserRouter>
